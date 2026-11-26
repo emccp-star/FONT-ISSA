@@ -1,6 +1,6 @@
 # FONT ISSA — Inking Script Serif Alphabet
 
-[![License: ISSA Proprietary](https://shields.io)](LICENSE.txt)
+[![License: ISSA Proprietary][(https://jsdelivr.net)](LICENSE.txt)
 
 **FONT ISSA** est une police calligraphique à l'encre avec empattements (*Serif*) et glyphes symboliques en zone privée Unicode (`U+E003` à `U+E013`).
 
