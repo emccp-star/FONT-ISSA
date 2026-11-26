@@ -1,6 +1,6 @@
 /**
  * FONT ISSA — Module d'intégration HTML5 / JS-Z7 + CSS3
- * Copyright (c) 2026, Jean-Patrick Larbuisson (RFN: "ISSA" - SIL OFL 1.1)
+ * Copyright (c) 2026, Jean-Patrick Larbuisson (RFN: "ISSA" - ISSA License)
  * Ref: W3C/RDP Seraing Numérique 9F27JJR7+-G3Z7+-WAVscript.exty
  */
 export const ISSA_SYMBOLS = {
