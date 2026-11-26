@@ -1,26 +1,3 @@
-
-FONT ISSA (v1.001) — Legal Notice & Intellectual Property / Mentions légales
-
-• Author / Auteur: Jean-Patrick Larbuisson (BCE BE1038032137, Seraing Numérique, Belgium) — Contact: emc_cp@amenael.online (Portal)
-• Registrations / Enregistrements: Font ID 202611-1ce3c8d82ae9 (Active until 16-11-2031) | SABAM Vaults (#202611-24fb6e291fca, #202611-540a97c8eb26, #202610-27cf7bc61f0c)
-
-1. Governing License / Licence applicable
-
-• Governed by the ISSA-Regular Proprietary License (overriding SIL OFL 1.1 in case of conflict).
-• Usage: Free for personal, private, educational, or non-profit use. Commercial exploitation is strictly prohibited without prior written authorization. / Gratuit pour usage personnel/éducatif ; exploitation commerciale strictement interdite sans autorisation.
-
-2. Reserved Font Name / Nom Réservé (ISSA)
-
-• "ISSA" is a Reserved Font Name (RFN). No modifications, derivative works, or unauthorized redistribution of font files (.otf, .ttf, .woff2) are permitted. / « ISSA » est un Nom de Police Réservé ; toute modification ou redistribution non autorisée est interdite.
-
-3. Moral Rights & Ethics / Droits moraux & éthique
-
-• Protected under the Berne Convention and Belgian Law (Code de droit économique, Livre XI). Forbidden for unlawful, hateful, or degrading content. / Protégé (droits moraux perpétuels) ; interdiction d'usage illicite ou dégradant.
-
-4. Disclaimer / Exclusion de garantie
-
-• Provided "AS IS" without warranty. / Fourni « en l'état », sans garantie.
-
 # MENTIONS LÉGALES & PROPRIÉTÉ INTELLECTUELLE — FONT ISSA
 
 * **Titre de l'œuvre :** FONT ISSA — Alphabet Serif d'Encre (`v1.001`)
@@ -65,3 +42,26 @@ Conformément à la **Convention de Berne** et au **Code de droit belge (Livre X
 ## 4. Exclusion de garantie
 
 LE LOGICIEL DE POLICE EST FOURNI « EN L'ÉTAT », SANS AUCUNE GARANTIE EXPLICITE OU IMPLICITE.
+
+
+FONT ISSA (v1.001) — Legal Notice & Intellectual Property / Mentions légales
+
+• Author / Auteur: Jean-Patrick Larbuisson (BCE BE1038032137, Seraing Numérique, Belgium) — Contact: emc_cp@amenael.online (Portal)
+• Registrations / Enregistrements: Font ID 202611-1ce3c8d82ae9 (Active until 16-11-2031) | SABAM Vaults (#202611-24fb6e291fca, #202611-540a97c8eb26, #202610-27cf7bc61f0c)
+
+Governing License / Licence applicable
+
+• Governed by the ISSA-Regular Proprietary License (overriding SIL OFL 1.1 in case of conflict).
+• Usage: Free for personal, private, educational, or non-profit use. Commercial exploitation is strictly prohibited without prior written authorization. / Gratuit pour usage personnel/éducatif ; exploitation commerciale strictement interdite sans autorisation.
+
+Reserved Font Name / Nom Réservé (ISSA)
+
+• "ISSA" is a Reserved Font Name (RFN). No modifications, derivative works, or unauthorized redistribution of font files (.otf, .ttf, .woff2) are permitted. / « ISSA » est un Nom de Police Réservé ; toute modification ou redistribution non autorisée est interdite.
+
+Moral Rights & Ethics / Droits moraux & éthique
+
+• Protected under the Berne Convention and Belgian Law (Code de droit économique, Livre XI). Forbidden for unlawful, hateful, or degrading content. / Protégé (droits moraux perpétuels) ; interdiction d'usage illicite ou dégradant.
+
+Disclaimer / Exclusion de garantie
+
+• Provided "AS IS" without warranty. / Fourni « en l'état », sans garantie.
