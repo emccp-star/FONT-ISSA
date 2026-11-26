@@ -4,10 +4,9 @@
 
 **FONT ISSA** est une police calligraphique à l'encre avec empattements (*Serif*) et glyphes symboliques en zone privée Unicode (`U+E003` à `U+E013`).
 
-* **Auteur :** Jean-Patrick Larbuisson (Seraing Numérique, Belgique — BCE `BE 1038.032.137`)
-* **Dépôt légal :** Sabam OnlineDepot — ID `202611-1ce3c8d82ae9` (jusqu'au `16-11-2031`)
-* **Contact & Site :** [amenael.online](https://amenael.online) • `emc_cp@amenael.online`
-* **Licence :** [Licence Propriétaire ISSA (prévalence sur SIL OFL 1.1)](LICENSE.txt) — **Nom Réservé : `"ISSA"`**
+* **Auteur :** Jean-Patrick Larbuisson (BCE `BE 1038.032.137`)
+* **Site web :** [amenael.online](https://amenael.online)
+* **Licence :** Propriétaire ISSA (usage personnel gratuit, usage commercial sur demande)
 
 ---
 
