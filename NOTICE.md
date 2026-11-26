@@ -1,24 +1,67 @@
-# LEGAL NOTICE & INTELLECTUAL PROPERTY — FONT ISSA
 
-* **Work Title:** FONT ISSA — Inking Script Serif Alphabet (v1.000)
-* **Author & Sovereign Copyright Holder:** Jean-Patrick Larbuisson (BCE BE1038032137)
-* **Contact & Official Portal:** https://amenael.online (Email: emc_cp@amenael.online)
-* **Location & Geodesic Node:** Voie du promeneur 3/21, 4101 Jemeppe-Sur-Meuse — Seraing Numérique (`9F27JJR7+G3Z7+`), Belgium
-* **Registration & Anchoring IDs:**
-  * Font Registration ID: `202611-1ce3c8d82ae9` (Status: Active — Valid until `16-11-2031`)
-  * SABAM Vaults: `#202611-24fb6e291fca` | `#202611-540a97c8eb26` | `#202610-27cf7bc61f0c`
-  * Technical Runtime: `W3C/RDP Seraing Numérique 9F27JJR7+-G3Z7+-WAVscript.exty | Hypralogy5D | Euromegacoins (77007777 uSI)`
+FONT ISSA (v1.001) — Legal Notice & Intellectual Property / Mentions légales
 
-## 1. Governing License (SIL OFL 1.1)
-This Font Software is licensed under the **SIL Open Font License, Version 1.1** (see `OFL.txt`).
+• Author / Auteur: Jean-Patrick Larbuisson (BCE BE1038032137, Seraing Numérique, Belgium) — Contact: emc_cp@amenael.online (Portal)
+• Registrations / Enregistrements: Font ID 202611-1ce3c8d82ae9 (Active until 16-11-2031) | SABAM Vaults (#202611-24fb6e291fca, #202611-540a97c8eb26, #202610-27cf7bc61f0c)
 
-## 2. Strict Protection of Reserved Font Name ("ISSA")
-Pursuant to Condition 3 of the SIL Open Font License 1.1, **"ISSA"** is an explicitly **Reserved Font Name (RFN)**.
-* No Modified Version of this Font Software may use the name **"ISSA"** (alone or in combination, such as *ISSA Bold*, *ISSA Pro*, *ISSA Web*, etc.) in its font family name, PostScript name, or file name without prior explicit written permission from **Jean-Patrick Larbuisson**.
-* Any derivative work must be renamed entirely and must remain distributed under the SIL OFL 1.1.
+1. Governing License / Licence applicable
 
-## 3. Moral Rights & Anti-Endorsement Clause
-In accordance with the Berne Convention for the Protection of Literary and Artistic Works and Belgian Copyright Law (Code de droit économique, Livre XI), **Jean-Patrick Larbuisson** retains perpetual, inalienable moral rights of paternity and integrity over the original glyph designs (including Private Use Area symbols `U+E003` to `U+E013`). Pursuant to Condition 4 of SIL OFL 1.1, the Author's name shall not be used to promote or endorse any Modified Version without explicit written consent.
+• Governed by the ISSA-Regular Proprietary License (overriding SIL OFL 1.1 in case of conflict).
+• Usage: Free for personal, private, educational, or non-profit use. Commercial exploitation is strictly prohibited without prior written authorization. / Gratuit pour usage personnel/éducatif ; exploitation commerciale strictement interdite sans autorisation.
 
-## 4. Disclaimer of Warranty
-Provided "AS IS" without warranty of any kind, express or implied.
+2. Reserved Font Name / Nom Réservé (ISSA)
+
+• "ISSA" is a Reserved Font Name (RFN). No modifications, derivative works, or unauthorized redistribution of font files (.otf, .ttf, .woff2) are permitted. / « ISSA » est un Nom de Police Réservé ; toute modification ou redistribution non autorisée est interdite.
+
+3. Moral Rights & Ethics / Droits moraux & éthique
+
+• Protected under the Berne Convention and Belgian Law (Code de droit économique, Livre XI). Forbidden for unlawful, hateful, or degrading content. / Protégé (droits moraux perpétuels) ; interdiction d'usage illicite ou dégradant.
+
+4. Disclaimer / Exclusion de garantie
+
+• Provided "AS IS" without warranty. / Fourni « en l'état », sans garantie.
+
+# MENTIONS LÉGALES & PROPRIÉTÉ INTELLECTUELLE — FONT ISSA
+
+* **Titre de l'œuvre :** FONT ISSA — Alphabet Serif d'Encre (`v1.001`)
+* **Auteur & Détenteur souverain des droits :** Jean-Patrick Larbuisson (BCE `BE1038032137`)
+* **Contact & Portail officiel :** [amenael.online](https://amenael.online) (Courriel : `emc_cp@amenael.online`)
+* **Juridiction & Nœud :** Seraing Numérique (`9F27JJR7+G3Z7+`), Belgique
+* **Identifiants d'enregistrement et d'ancrage :**
+  * **ID d'enregistrement de la police :** `202611-1ce3c8d82ae9` (Statut : Actif — Valide jusqu'au `16-11-2031`)
+  * **Coffres SABAM OnlineDepot :** `#202611-24fb6e291fca` | `#202611-540a97c8eb26` | `#202610-27cf7bc61f0c`
+  * **Runtime technique :** W3C/RDP Seraing Numérique `9F27JJR7+-G3Z7+-WAVscript.exty` | Hypralogy5D | Euromegacoins (`77007777 uSI`)
+
+---
+
+## 1. Licence applicable & Clause de primauté (Licence Propriétaire ISSA)
+
+Bien qu'inspiré par la structure de la licence SIL Open Font License (OFL 1.1), ce logiciel de police est régi par la **Licence Propriétaire ISSA-Regular** (voir [`LICENSE.txt`](LICENSE.txt)). En cas de conflit ou d'ambiguïté, **les termes établis par Jean-Patrick Larbuisson prévalent de plein droit**.
+
+* **Consentement obligatoire :** L'utilisation ou le téléchargement vaut acceptation sans réserve.
+* **Usage personnel :** Gratuit pour des projets strictement privés, éducatifs ou à but non lucratif.
+* **Exploitation commerciale :** Strictement interdite sans autorisation écrite préalable (`emc_cp@amenael.online`).
+
+---
+
+## 2. Protection du Nom de Police Réservé (« ISSA ») & Dérivés
+
+**« ISSA »** est un **Nom de police réservé (RFN)**.
+
+* Aucune modification ou adaptation ne peut utiliser le nom « ISSA » sans autorisation écrite préalable.
+* La revente ou la redistribution non autorisée des fichiers (`.otf`, `.ttf`, `.woff2`) est strictement prohibée.
+
+---
+
+## 3. Droits moraux, usage éthique & Clause de non-approbation
+
+Conformément à la **Convention de Berne** et au **Code de droit belge (Livre XI)**, l'auteur conserve ses droits moraux perpétuels sur les glyphes.
+
+* **Interdiction éthique :** Il est formellement interdit d'utiliser cette police avec des contenus illégaux, haineux, violents ou contraires à la dignité humaine.
+* **Non-approbation :** Le nom de l'auteur ne peut être utilisé pour endosser un projet sans consentement explicite.
+
+---
+
+## 4. Exclusion de garantie
+
+LE LOGICIEL DE POLICE EST FOURNI « EN L'ÉTAT », SANS AUCUNE GARANTIE EXPLICITE OU IMPLICITE.
