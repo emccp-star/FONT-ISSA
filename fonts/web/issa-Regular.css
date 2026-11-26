@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'ISSA';
+  src: url('ISSA-Regular.woff2') format('woff2'),
+       url('../otf/ISSA-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-issa {
+  font-family: 'ISSA', serif;
+  font-feature-settings: "liga" 1, "kern" 1;
+}
+
+/* Classes CSS3 dédiées aux symboles uniques PUA */
+.issa-faith::before   { font-family: 'ISSA'; content: "\E009"; }
+.issa-scales::before  { font-family: 'ISSA'; content: "\E010"; }
+.issa-peace::before   { font-family: 'ISSA'; content: "\E011"; }
+.issa-chrisme::before { font-family: 'ISSA'; content: "\E012"; }
+.issa-ofl::before     { font-family: 'ISSA'; content: "\E013"; }
