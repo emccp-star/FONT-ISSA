@@ -1,5 +1,4 @@
 Copyright (c) 2026, Jean-Patrick Larbuisson
-Voie du promeneur 3/21, 4101 Jemeppe-Sur-Meuse
 (W3C/RDP Seraing Numérique 9F27JJR7+-G3Z7+-WAVscript.exty)
 Hypralogy5D | Euromegacoins (77007777 uSI)
 with Reserved Font Name "ISSA".
@@ -7,6 +6,10 @@ Date d'expiration dépôt: 16-11-2031
 Statut dépôt: active
 ID dépôt: 202611-1ce3c8d82ae9
 Titre dépôt: Font (RFN : ISSA) Registration | For SIL OFL Legally License
+
+LEGAL NOTICE & PRECEDENCE CLAUSE: 
+While inspired by the structure of the SIL Open Font License (OFL), this agreement constitutes a specific and proprietary license. In the event of any conflict, inconsistency, or ambiguity between the clauses of this license (Sections 0 to 6) and the provisions of the SIL Open Font License (OFL), the terms of this license established by Jean-Patrick Larbuisson shall prevail by right and apply exclusively.
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
