@@ -2,8 +2,6 @@
 
 [![License: ISSA Proprietary](https://shields.io)](LICENSE.txt)
 
-**FONT ISSA** est une police calligraphique à l'encre avec empattements (*Serif*) et glyphes symboliques en zone privée Unicode (`U+E003` à `U+E013`).
-
 * **Auteur :** Jean-Patrick Larbuisson (BCE `BE 1038.032.137`)
 * **Site web :** [amenael.online](https://amenael.online)
 * **Licence :** Propriétaire ISSA (usage personnel gratuit, usage commercial sur demande)
@@ -31,3 +29,12 @@
 * `U+E011` (`.issa-peace`) : Paix du Christ
 * `U+E012` (`.issa-chrisme`) : Chrisme Unifié
 * `U+E013` (`.issa-seal`) : Sceau de Licence ISSA
+
+**FONT ISSA** est une police calligraphique à l'encre avec empattements (*Serif*) et glyphes symboliques en zone privée Unicode (`U+E003` à `U+E013`).
+
+### [`issa-font-issa-v1.0.1.json`](https://github.com/emccp-star/FONT-ISSA/blob/main/issa-font-issa-v1.0.1.json)
+Fichier de référence (à ne pas confondre avec le manifeste Google Apps Script `appsscript.json`) regroupant :
+* Les caractéristiques typographiques de **FONT ISSA (v1.0.1)** (`ISSA-Regular.otf`, `ISSA-Regular.woff2`, `1000 UPM`, glyphes `U+E003`–`U+E013`).
+* L'identité de l'auteur et de l'entité (**Jean-Patrick Larbuisson**, **Amenæl – EMC_CP**, `BCE BE 1038.032.137`, **Seraing Numérique**, `emc_cp@amenael.online`).
+* Les règles de la **Licence Propriétaire ISSA**, l'enregistrement **Sabam OnlineDepot** (`202611-1ce3c8d82ae9`, valide jusqu'au `16-11-2031`) et le périmètre **RGPD** de la déclaration d'usage.
+* Les URLs officielles de release, d'archive `FONT-ISSA-v1.0.1.zip` et de CDN `WOFF2`.
