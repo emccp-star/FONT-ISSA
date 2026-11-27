@@ -11,6 +11,7 @@
 * **Ressources GitHub :** [Release v1.0.1](https://github.com/emccp-star/FONT-ISSA/releases/tag/v1.0.1) · [Archive ZIP](https://github.com/emccp-star/FONT-ISSA/releases/download/v1.0.1/FONT-ISSA-v1.0.1.zip) · [Mentions & SHA-256](https://github.com/emccp-star/FONT-ISSA/blob/main/NOTICE.md)
 
 ---
+}
 
 ## Conditions d'utilisation
 
@@ -18,6 +19,8 @@
 > * **Usage personnel :** Gratuit (projets privés, étudiants et associatifs).
 > * **Usage professionnel / commercial :** Sur autorisation écrite préalable (`emc_cp@amenael.online`).
 > * **Déontologie :** Tout usage illicite, haineux ou discriminatoire entraîne la révocation immédiate des droits.
+
+---
 
 ## Intégration HTML5 / CSS3
 
@@ -33,3 +36,26 @@
 .issa-glyph {
   font-family: "FONT ISSA", serif;
 }
+
+### Exemple HTML d'affichage des symboles
+
+```html
+<p>
+  <span class="issa-glyph issa-faith" aria-label="Croix victorieuse">&#xE009;</span>
+  <span class="issa-glyph issa-scales" aria-label="La Balance Parfaite">&#xE010;</span>
+  <span class="issa-glyph issa-peace" aria-label="Paix du Christ">&#xE011;</span>
+  <span class="issa-glyph issa-chrisme" aria-label="Chrisme Unifié">&#xE012;</span>
+  <span class="issa-glyph issa-seal" aria-label="Sceau de Licence ISSA">&#xE013;</span>
+</p>
+---
+
+### Métadonnées de référence (`issa-font-issa-v1.0.1.json`)
+
+```markdown
+### [`issa-font-issa-v1.0.1.json`](https://github.com/emccp-star/FONT-ISSA/blob/main/issa-font-issa-v1.0.1.json)
+
+Fichier de référence (à ne pas confondre avec le manifeste Google Apps Script `appsscript.json`) regroupant :
+
+* Les caractéristiques typographiques de **FONT ISSA (v1.0.1)** (`ISSA-Regular.otf`, `ISSA-Regular.woff2`, `1000 UPM`, glyphes `U+E003`–`U+E013`).
+* L'identité de l'auteur et de l'entité (**Jean-Patrick Larbuisson**, **Amenæl – EMC_CP**, `BCE BE 1038.032.137`, **Seraing Numérique**, `emc_cp@amenael.online`).
+* Les règles de la **Licence Propriétaire ISSA**, l'enregistrement **Sabam OnlineDepot** (`202611-1ce3c8d82ae9`) et le périmètre **RGPD** de la déclaration d'usage.
