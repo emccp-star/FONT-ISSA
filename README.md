@@ -18,8 +18,8 @@
 > * **Usage personnel :** Gratuit (projets privés, étudiants et associatifs).
 > * **Usage professionnel / commercial :** Sur autorisation écrite préalable (`emc_cp@amenael.online`).
 > * **Déontologie :** Tout usage illicite, haineux ou discriminatoire entraîne la révocation immédiate des droits.
-
----
+>
+>   ---
 
 ## Intégration HTML5 / CSS3
 
@@ -56,8 +56,6 @@ Les caractéristiques typographiques de FONT ISSA (v1.0.1) (ISSA-Regular.otf, IS
 
 L'identité de l'auteur et de l'entité (Jean-Patrick Larbuisson, Amenæl – EMC_CP, BCE BE 1038.032.137, Seraing Numérique, emc_cp@amenael.online).
 
-Les règles de la Licence Propriétaire ISSA, l'enregistrement Sabam OnlineDepot (202611-1ce3c8d82ae9, valide jusqu'au 16-11-2031) et le périmètre RGPD de la déclaration d'usage.
+Les règles de la Licence Propriétaire ISSA, l'enregistrement Sabam OnlineDepot (202611-1ce3c8d82ae9) et le périmètre RGPD de la déclaration d'usage.
 
-Les URLs officielles de release, d'archive FONT-ISSA-v1.0.1.zip et de CDN WOFF2
-
-<FollowUp label="Voulez-vous ajouter un exemple HTML d'affichage des glyphes dans ce README?" query="Ajoute un exemple HTML concret montrant l'affichage des glyphes U+E009 à U+E013 avec la classe .issa-glyph dans le README.md."/>
+Les URLs officielles de release, d'archive FONT-ISSA-v1.0.1.zip et de CDN WOFF2.
