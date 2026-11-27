@@ -20,23 +20,8 @@
 > * **Déontologie :** Tout usage illicite, haineux ou discriminatoire entraîne la révocation immédiate des droits.
 >
 >   ---
-
-## Intégration HTML5 / CSS3
-
-```css
-@font-face {
-  font-family: "FONT ISSA";
-  src: url("[https://cdn.jsdelivr.net/gh/emccp-star/FONT-ISSA@main/fonts/web/ISSA-Regular.woff2](https://cdn.jsdelivr.net/gh/emccp-star/FONT-ISSA@main/fonts/web/ISSA-Regular.woff2)") format("woff2");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-.issa-glyph {
-  font-family: "FONT ISSA", serif;
-}
-
-Symboles Unicode inclus (U+E003 à U+E013)
+>
+> Symboles Unicode inclus (U+E003 à U+E013)
 U+E003 à U+E006 (.issa-ornament) : Ornements calligraphiques et séparateurs
 
 U+E009 (.issa-faith) : Croix victorieuse (faith_ISSA)
@@ -59,3 +44,18 @@ L'identité de l'auteur et de l'entité (Jean-Patrick Larbuisson, Amenæl – EM
 Les règles de la Licence Propriétaire ISSA, l'enregistrement Sabam OnlineDepot (202611-1ce3c8d82ae9) et le périmètre RGPD de la déclaration d'usage.
 
 Les URLs officielles de release, d'archive FONT-ISSA-v1.0.1.zip et de CDN WOFF2.
+
+## Intégration HTML5 / CSS3
+
+```css
+@font-face {
+  font-family: "FONT ISSA";
+  src: url("[https://cdn.jsdelivr.net/gh/emccp-star/FONT-ISSA@main/fonts/web/ISSA-Regular.woff2](https://cdn.jsdelivr.net/gh/emccp-star/FONT-ISSA@main/fonts/web/ISSA-Regular.woff2)") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.issa-glyph {
+  font-family: "FONT ISSA", serif;
+}
